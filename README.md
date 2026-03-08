@@ -77,7 +77,6 @@ Olá, me chamo Heitor, tenho 19 anos, sou natural de Minas Gerais. Atualmente, e
 <br/>
 
 ### 📊 Estatísticas
+![Estatísticas](https://github-readme-stats-fast.vercel.app/api?username=heitorsepulcrii&show_icons=true&theme=nord)
 
-![Estatísticas do Heitor](https://github-readme-stats.vercel.app/api?username=heitorsepulcrii&show_icons=true&theme=dracula)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsepulcrii&layout=compact&theme=dracula)
+![Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=heitorsepulcrii&layout=compact&theme=nord)
